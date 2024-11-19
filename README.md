@@ -121,5 +121,3 @@ For any queries or collaborations, feel free to reach out:
 - **LinkedIn**: [Manish Khobragade](https://www.linkedin.com/in/manishkhobragade-itengineer)
 
 ---
-
-Let me know if there are any additional details you'd like to include!

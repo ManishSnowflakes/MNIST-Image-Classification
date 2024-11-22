@@ -53,7 +53,7 @@ The model is trained using **categorical cross-entropy loss** and **Adam optimiz
 
 ---
 
-## **📈 Results**
+## **📈 Results Expecting**
 - **Training Accuracy**: Achieved ~98% on the training dataset.
 - **Validation Accuracy**: Achieved ~97% on the test dataset.
 - **Evaluation Metrics**: Precision, recall, and F1-score were calculated for detailed insights.
